@@ -1,0 +1,14 @@
+.main {
+    display: flex;
+    justify-content: center;
+}
+
+.title img {
+    height: 35vh;
+    width: 20vw;
+    border-radius: 30px;
+}
+
+.title{
+    justify-content: center;
+}
